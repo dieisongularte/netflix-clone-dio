@@ -17,3 +17,9 @@ body {
 header .container {
 
 }
+
+header .logo {
+	color: var(--vermelho);
+	font-family: 'Arial Black', Times;
+	font-size: 40px;
+}
